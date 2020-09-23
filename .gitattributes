@@ -1,0 +1,2 @@
+HDK-FaceDetectionApp/App.rar filter=lfs diff=lfs merge=lfs -text
+HDK-FaceDetectionApp/FaceDetectionApp.apk filter=lfs diff=lfs merge=lfs -text
